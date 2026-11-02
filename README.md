@@ -1,7 +1,5 @@
 # System-Security-and-Network-Engineering-Labs
 
-A collection of laboratory reports and practical coursework completed as part of the **Master's programme in System and Network Engineering (SNE) at Innopolis University, Russia**.
-
 This repository documents hands-on academic work across computer systems, network engineering, cybersecurity, digital forensics, secure software development, DevOps, and offensive security.
 
 ---
